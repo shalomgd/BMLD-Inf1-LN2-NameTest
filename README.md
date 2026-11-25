@@ -1,2 +1,7 @@
 # BMLD-Inf1-LN2-NameTest
-N/A
+# Beschreibung
+
+# Team
+Shalom Garcia
+Kevin Devadas
+Ferhan Destan
