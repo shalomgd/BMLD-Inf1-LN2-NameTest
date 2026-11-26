@@ -1,10 +1,20 @@
-1. #Fragestellung(en) und Datenbeschaffung
-1.1 #Titel:
-Share of one-year-olds vaccinated against diphtheria, tetanus and pertussis
-1.2 #Fragestellung:
-Wie hat sich die DTP3-Impfrate bei Einjährigen weltweit von 1980 bis 2025 entwickelt, und wie stark haben sich die Unterschiede zwischen Regionen und Ländern in dieser Zeit verringert?
+{
+   "cell_type": "markdown",
+   "id": "f9e9bf68",
+   "metadata": {},
+   "source": [
+    "## 1. Fragestellung(en) und Datenbeschaffung\n",
+    "### 1.1 Titel: \n",
+    "Share of one-year-olds vaccinated against diphtheria, tetanus and pertussis",
+    "### 1.2 Fragestellung:\n",
+    "Wie hat sich die DTP3-Impfrate bei Einjährigen weltweit von 1980 bis 2025 entwickelt, und wie stark haben sich die Unterschiede zwischen Regionen und Ländern in dieser Zeit verringert?
     Wie stark ist die Impfrate in den Regionen mit tiefem Ausgangswert (z. B. Afrika) gestiegen, verglichen mit Regionen mit hohem Ausgangswert (z. B. Europa)?
     Wie stark hat die COVID-19-Pandemie die Impfraten gedrückt, und haben sie sich wieder erholt?
-    Welche Länder bleiben hinter ihrer Region zurück, und welche sind besonders stark gestiegen?
-1.3 #Datenquelle(n):
-https://ourworldindata.org/grapher/share-of-children-immunized-dtp3
+    Welche Länder bleiben hinter ihrer Region zurück, und welche sind besonders stark gestiegen?"   \n",
+    "### 1.3 Datenquelle(n):\n",
+    "Beispiele für mögliche Datenquellen:\n",
+    "https://ourworldindata.org/grapher/share-of-children-immunized-dtp3\n",
+    "\n",
+    "\n"
+   ]
+  }
